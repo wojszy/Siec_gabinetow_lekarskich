@@ -1,0 +1,17 @@
+.buttons button {
+    width:90%;
+    font-size:15px;
+    margin-bottom:10px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    background-color: #3ba8e7;
+    color:white;
+    }
+    .buttons{
+        width:100px;
+    
+    }
+    .errorMessage{
+        color:red
+    }

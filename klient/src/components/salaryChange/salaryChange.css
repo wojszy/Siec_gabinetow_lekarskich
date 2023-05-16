@@ -1,0 +1,20 @@
+.salaryTable{
+    width:40%;
+    height:10%;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align:center;
+    background: #3ba8e7;
+    color:white;
+    font-size:15px;
+    margin-top:10px;
+    padding-top:10px;
+}
+.payButton{
+    background-color: rgb(255, 255, 255);
+    color: #3ba8e7;
+    border: none;
+    cursor: pointer;
+    width:60%;
+    font-size:15px;
+}

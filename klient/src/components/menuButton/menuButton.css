@@ -1,0 +1,17 @@
+.menuButton{
+    width: 250px;
+    height: 80px;
+    background-color: #3ba8e7;
+    color: white;
+    font-size: 20px;
+    
+    border-bottom: solid 1px;
+    border-radius: 0;
+    
+    }
+    .menuButton:hover{
+        text-decoration: none;
+        color: #fff;
+        background: #87c8ee;
+        text-decoration:underline;
+    }

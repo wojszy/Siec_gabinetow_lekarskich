@@ -1,0 +1,19 @@
+.prescriptionTable{
+    width:60%;
+    height:10%;
+    border: 1px solid black;
+    border-radius: 15px;
+    text-align:center;
+    background: #3ba8e7;
+    color:white;
+    font-size:20px;
+    margin-top:10px;
+    padding-top:10px;
+
+
+}
+
+.prescriptionTable td {
+    padding:10px;
+
+}
